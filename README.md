@@ -6,16 +6,10 @@
 
 ## ✨ Features
 
-- 🎬 **Animated Loading Screen** — Bubble animations, boom gate, and loading bar on startup
-- 🔐 **User Authentication** — Sign up and login with strong password validation
-- 👁️ **Show/Hide Password** — Toggle password visibility
 - 🧑‍👦 **Guest & Parent Details Form** — Collects visitor info with real-time validation
-- 🚗 **Vehicle Support** — Optional vehicle number entry with format validation
 - 📧 **Email Approval System** — Sends approval request email 
 - ✅ **Approve / Reject via Email** — Student clicks directly from inbox
-- ⏳ **Auto Polling** — Frontend checks approval status every 5 seconds
 - 📲 **QR Code Gatepass** — Auto-generates and downloads QR code on approval
-- 💾 **Remember Me** — Saves credentials using localStorage
 - 🔒 **Security Dashboard** — View all visitors and currently present visitors
 - 🖥️ **Desktop App** — Runs as a standalone Electron application
 
